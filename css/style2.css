@@ -1,0 +1,24 @@
+.header ul>li>a {
+    display: inline-block;
+	text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 25px;
+}
+.header ul>li {
+    display: inline-block;
+    float: left;
+    padding-right: 25px;
+}
+ul{
+    list-style: none;
+}
+
+.menu-main li{
+	border-left: 3px solid #908d8d;
+}
+
+.menu-main li:first-child{
+    border-left: none;
+}
+
+
